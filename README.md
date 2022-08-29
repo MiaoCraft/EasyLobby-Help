@@ -30,3 +30,4 @@
 ```
 
 ## 下载
+https://github.com/MiaoCraft/EasyLobby-Help/releases/tag/v1.2
