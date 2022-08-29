@@ -1,0 +1,54 @@
+location:
+  #是否已设置
+  set: false
+  world: 'world'
+  x: 0
+  y: 0
+  z: 0
+  yaw: 0.0
+  pitch: 0.0
+
+#是否开启登录服务器传送到固定地点
+loginTP: true
+
+#是否开启掉入虚空传送到固定地点
+voidTP: true
+
+#登录后是否切换为冒险模式
+loginAdventure: true
+
+#是否允许聊天
+chat: true
+
+#是否允许建筑与破坏
+build: false
+
+#是否允许丢弃物品
+dropItem: false
+
+#是否扣饱食度
+hunger: false
+
+#是否允许PVP
+PVP: false
+
+#是否受到生物造成的伤害
+damage: false
+
+#是否受到跌落造成的伤害
+fallDamage: false
+
+#是否允许移动背包中的物品
+itemMove: false
+
+#是否允许天气变化
+weather: false
+
+#是否允许爆炸
+explosion: false
+
+#加入服务器提示消息,填''将没有提示,玩家变量%player%
+joinMessage: ''
+
+#退出服务器提示消息,填''将没有提示,玩家变量%player%
+quitMessage: ''
